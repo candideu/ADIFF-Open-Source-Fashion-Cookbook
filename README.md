@@ -1,9 +1,11 @@
-# ADIFF-Open-Source-Fashion-Cookbook
+# ADIFF Open Source Fashion Cookbook Sewing Patterns / Recipes
+
 Mirror of the ADIFF Open Source Fashion Cookbook Templates
 
-Original link: https://drive.google.com/drive/folders/1l2ScRhotKkNGTJMNWBq1xOHAzxQlamCV
+You can find instructions in the book: https://search.worldcat.org/title/1245425408
 
-Pattern from the Open Source Fashion Cookbook
+Original link (no longer works): https://drive.google.com/drive/folders/1l2ScRhotKkNGTJMNWBq1xOHAzxQlamCV
 
+## License
 
 From the book: "All patterns and recipes are only for personal use and may not be used for commercial or resale purposes."
